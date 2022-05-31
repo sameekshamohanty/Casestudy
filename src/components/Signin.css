@@ -11,9 +11,9 @@
     flex-direction: column;
     justify-content: center;
     border: 1px solid  rgb(194, 174, 199);
-    width: 55%;
+    width: 30%;
     margin: auto;
-    margin-top: 50px;
+    margin-top: 20px;
     background-color: rgb(225, 220, 171);
 }
 header{
@@ -80,7 +80,7 @@ header{
  } 
 
  .signInPageBtn {
-    margin-top: 250px;
+    margin-top: 150px;
     margin-bottom: 20px;
     display: flex;
     padding: 10px;
